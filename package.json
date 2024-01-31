@@ -6,13 +6,11 @@
   "scripts": {
     "dev": "vite --port 5500 --open",
     "build": "vite build",
-    "preview": "vite preview --open",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview --open"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gh-pages": "^6.1.1",
     "three": "^0.160.0"
   },
   "devDependencies": {

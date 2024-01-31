@@ -1,0 +1,19 @@
+{
+  "name": "three-js-starter-scene",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite --port 5500 --open",
+    "build": "vite build",
+    "preview": "vite preview --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11"
+  }
+}

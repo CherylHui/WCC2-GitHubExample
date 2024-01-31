@@ -17,6 +17,8 @@
 
 */
 
+//Remember to put the **importmap** into the index.html
+
 //import three.js
 import * as THREE from 'three';
 //add Orbit controls

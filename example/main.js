@@ -16,7 +16,7 @@
       npm run preview
 
 */
-//TESTINGABC//
+//TESTING//
 //Remember to put the **importmap** into the index.html
 
 //import three.js
